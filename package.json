@@ -8,11 +8,13 @@
   },
   "dependencies": {
     "axios": "0.18.0",
+    "cryptiles": "4.1.2",
     "fresh": "0.5.2",
     "negotiator": "0.6.1",
     "randomatic": "3.0.0",
     "react": "16.2.0",
-    "react-native": "0.53.3"
+    "react-native": "0.53.3",
+    "sshpk": "1.13.2"
   },
   "devDependencies": {
     "babel-jest": "22.4.1",
