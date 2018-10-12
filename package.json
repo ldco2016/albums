@@ -8,6 +8,9 @@
   },
   "dependencies": {
     "axios": "0.18.0",
+    "fresh": "0.5.2",
+    "negotiator": "0.6.1",
+    "randomatic": "3.0.0",
     "react": "16.2.0",
     "react-native": "0.53.3"
   },
